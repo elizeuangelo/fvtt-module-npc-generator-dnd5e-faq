@@ -1,8 +1,13 @@
 # Patch Notes
 
-## 1.24.1
+## 1.24.2
 
 -   Babele compatible (module won't break). Still no official translations
+
+## 1.24.1
+
+-   Removed form report
+-   Added github FAQ
 
 ## 1.24.0
 
