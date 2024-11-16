@@ -4,6 +4,8 @@
 
 Generate NPCs on the fly ASAP. Including names and character sheets, all randomly generated using an explendid algorithm. Plenty of races and _jobs_ to work with, dozens of name generators and providing a method for generating portraits as well.
 
+> This module will no longer be supported after december, 2024
+
 ## Installation
 
 In the setup screen, use the manifest URL, provided in your purchase, to install the module.

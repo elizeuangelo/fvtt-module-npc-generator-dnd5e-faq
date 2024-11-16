@@ -1,5 +1,10 @@
 # Patch Notes
 
+## 1.25.1
+
+-   Fixes several compatibility issues with latest v12 versions up to 12.331
+-   Adds support for DnD v4.1.1
+
 ## 1.24.2
 
 -   Babele compatible (module won't break). Still no official translations
