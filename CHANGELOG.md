@@ -1,5 +1,9 @@
 # Patch Notes
 
+## 1.26.1
+
+-   Fixes several bugs with different races and classes in DnD v4.1.2
+
 ## 1.25.1
 
 -   Fixes several compatibility issues with latest v12 versions up to 12.331
