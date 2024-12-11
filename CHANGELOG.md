@@ -7,7 +7,7 @@
 ## 1.25.1
 
 -   Fixes several compatibility issues with latest v12 versions up to 12.331
--   Adds support for DnD v4.1.1
+-   Adds support for DnD v4.1.1, breaking changes no longer works on DnD v3.x.x
 
 ## 1.24.2
 
