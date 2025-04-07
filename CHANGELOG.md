@@ -1,5 +1,10 @@
 # Patch Notes
 
+## 1.26.2
+
+-   Fixes damage evaluation bug on martial classes
+-   Adds activities to "Bite" and "Unarmed Strike" features
+
 ## 1.26.1
 
 -   Fixes several bugs with different races and classes in DnD v4.1.2
@@ -8,6 +13,11 @@
 
 -   Fixes several compatibility issues with latest v12 versions up to 12.331
 -   Adds support for DnD v4.1.1, breaking changes no longer works on DnD v3.x.x
+
+## 1.24.3
+
+-   Fix sourceId bug on character creation and removes deprecated v12 warnings
+-   Makes DnD5e v3 compatible with v12
 
 ## 1.24.2
 
