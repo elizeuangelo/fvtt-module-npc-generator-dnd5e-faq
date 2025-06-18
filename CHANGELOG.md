@@ -1,5 +1,10 @@
 # Patch Notes
 
+## 1.27.0
+
+-   Compatibility with Foundry v13
+-   Compatibility with DnD v5
+
 ## 1.26.2
 
 -   Fixes damage evaluation bug on martial classes
