@@ -1,5 +1,9 @@
 # Patch Notes
 
+## 1.28.0
+
+-   Fixed spellcasting issue with latest DnD v5 version
+
 ## 1.27.0
 
 -   Compatibility with Foundry v13
