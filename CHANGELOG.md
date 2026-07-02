@@ -1,5 +1,9 @@
 # Patch Notes
 
+## 1.28.1
+
+-   Fixes issue on UNIX systems and makes some settings more leniant to different formats
+
 ## 1.28.0
 
 -   Fixed spellcasting issue with latest DnD v5 version
