@@ -1,5 +1,14 @@
 # Patch Notes
 
+## 1.28.3
+
+-   Fixes portrait directory setting file picker not working
+-   Fixes actor folders bugging the menu rendering
+
+## 1.28.2
+
+-   Updated Foundry compatibilities
+
 ## 1.28.1
 
 -   Fixes issue on UNIX systems and makes some settings more leniant to different formats
